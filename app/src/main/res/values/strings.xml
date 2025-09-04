@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PasswordChecker</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
